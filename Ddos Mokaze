@@ -2,7 +2,8 @@
 
 #Semoga yang curi script yatim
 
-#Ddos by XalBadoR
+#Ddos BY YALL 
+
 
 #Join My T3Am : https://discord.gg/fRDAvXsU
 
@@ -16,7 +17,7 @@ import os
 
 os.system("clear")
 
-print("DDoSaTtack by Xalbador")
+print("DDOS ATTACK MOKAZE")
 
 print("Kalau Mau Pakek Ganteng Dulu")
 
@@ -52,13 +53,13 @@ def run():
 
 		except:
 
-			print("[!] | Attack the Server with all your might!!!! |")
+			print("[!] | Attack To server!!!! |")
 
 def run2():
 
 	data = random._urandom(16)
 
-	i = random.choice(("[*]","[!]","[#]"))
+	i = random.choice(("[☠️]","[!]","[#]"))
 
 	while True:
 
